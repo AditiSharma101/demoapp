@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Deploying this web app to GitHub
+            Deploying this web app to GitHub. Updating application.
         </div>
     </form>
 </body>
